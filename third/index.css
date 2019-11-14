@@ -1,0 +1,54 @@
+body{
+    border: 0px;
+    margin: 0px;
+}
+.header{
+    width: 100%;
+    height: 100px;
+    background-color: #cccccc;
+    padding: 10px 0 0 0px;
+}
+    .menu-btn{
+        background-color: steelblue;
+        width: 90px;
+        height: 90px;
+        margin: 0 0 0 30px;
+    }
+
+.article{
+    /* background-color: red; */
+    width: 100%;
+    /* height: 300px; */
+    padding: 50px 0 100px 0;
+}
+
+    .article p{
+        margin: 0 50px 0 50px;
+    }
+
+
+.bar{
+    position: absolute;
+    width: 100%;
+    height: 15vh;
+}
+
+    #blue-bar{
+        background-color: steelblue;
+        top: 40vh;
+    }
+
+    #teal-bar{
+        background-color: turquoise;
+        top: 55vh;
+    }
+
+    #green-bar{
+        background-color: yellowgreen;
+        top: 70vh;
+    }
+
+    #yellow-bar{
+        background-color: yellow;
+        top: 85vh;
+    }
